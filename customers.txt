@@ -1,0 +1,13 @@
+C1001|Cname101|9898324501|p101@gmail.com|Details of C101 Customer
+C1002|Cname102|9898324502|p102@gmail.com|Details of C102 Customer
+C1003|Cname103|9898324503|p103@gmail.com|Details of C103 Customer
+C1004|Cname104|9898324504|p104@gmail.com|Details of C104 Customer
+C1005|Cname105|9898324505|p105@gmail.com|Details of C105 Customer
+C1006|Cname106|9898324506|p106@gmail.com|Details of C106 Customer
+C1007|Cname107|9898324507|p107@gmail.com|Details of C107 Customer
+C1008|Cname108|9898324508|p108@gmail.com|Details of C108 Customer
+C1009|Cname109|9898324509|p109@gmail.com|Details of C109 Customer
+C1010|Cname110|9898324510|p110@gmail.com|Details of C110 Customer
+C2573|dev|1234567890|sdadad@sasd.com|na
+C1234|asda|234254547|ddfvcxv@dxf.xxfxdf|daasdadssfvx sda dasasd
+C2345|kena|1231231231|qweer@wqe.wqe|na
